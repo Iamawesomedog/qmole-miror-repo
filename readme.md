@@ -20,6 +20,6 @@ If you want to change the repo's name, description, etc, just change the release
 
 If you don't want all the links and everything there is to be broken,then uzip the packages folder, replace the links, and for the depictions, change the urls of the depictions to the new ones in your repo.
 
-Me i don't care, as I'm only using this to download the stuff. If you want to read the dependencies or whatever else and manually download the debs, I've posted the txt file for packages in this.
+Me i don't care, as I'm only using this to download the stuff. Oh yeah, also I can't give tech support. I made this for myself to use so idk if it will work for other people, but you can always try.
 
 All the debs themselves are in the pages branch because thats how codeberg turns them into a page.
